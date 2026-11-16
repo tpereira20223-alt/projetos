@@ -1,0 +1,14 @@
+html 
+Talita dos Santos 
+o portifolio academico foi feito para apresentar projetos
+ja realizados e habilidades que dessenvolvi, ele mostra uma imagem minha,
+onde eu moro, o que eu ja fiz, e meios de contato.
+
+Utilizei linguagem HTML, CSS e Bootstrap para criar o portifolio, e utilizei o GitHub para hospedar o projeto.
+Segue o link do site:file:///c%3A/Users/santo/projetos/portifolio/index.html
+
+um novo recurso adicionado foi <div class="carrossel">
+  <img src=""imagem.1jgp">
+
+  que permite que seja adicionado duas ou mais imagens e que fiquem com um botao de ir e voltar.
+  
